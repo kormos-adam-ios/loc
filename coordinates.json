@@ -118,9 +118,9 @@
 },
   {
   "key": "geo14",
-  "latitude": 47.530282,
-  "longitude": 19.116913,
-  "radius": 10,
+  "latitude": 47.530311,
+  "longitude": 19.116828,
+  "radius": 15,
   "expiration_time": 1000,
   "title": "Kutyafuttató",
   "body": "futtató push"
