@@ -1,0 +1,119 @@
+[
+{
+  "key": "geo1",
+  "latitude": 47.317356,
+  "longitude": 18.908911,
+  "radius": 10,
+  "expiration_time": 1000,
+  "title": "Főtér szökőkút",
+  "body": "Hello főtér szökőkút"
+},
+{
+  "key": "geo2",
+  "latitude": 47.315308,
+  "longitude": 18.907552,
+  "radius": 10,
+  "expiration_time": 1000,
+  "title": "Uszoda bejárat",
+  "body": "Hello uszoda bejárat"
+},
+{
+  "key": "geo3",
+  "latitude": 47.314467,
+  "longitude": 18.905502,
+  "radius": 10,
+  "expiration_time": 1000,
+  "title": "Piac közepe",
+  "body": "Hello piac közepe"
+},
+{
+  "key": "geo4",
+  "latitude": 47.314142,
+  "longitude": 18.903166,
+  "radius": 10,
+  "expiration_time": 1000,
+  "title": "Autosiskola",
+  "body": "Hello autosiskola"
+},
+{
+  "key": "geo5",
+  "latitude": 47.316523,
+  "longitude": 18.903707,
+  "radius": 10,
+  "expiration_time": 1000,
+  "title": "Grill sarok",
+  "body": "Hello grill sarok"
+},
+{
+  "key": "geo6",
+  "latitude": 47.318009,
+  "longitude": 18.906572,
+  "radius": 10,
+  "expiration_time": 1000,
+  "title": "Arany utca sarok",
+  "body": "Hello arany utca sarok"
+},
+{
+  "key": "geo7",
+  "latitude": 47.499403,
+  "longitude": 19.090574,
+  "radius": 10,
+  "expiration_time": 1000,
+  "title": "Aréna pláza parkoló bejárat",
+  "body": "Helló Aréna pláza"
+},
+{
+  "key": "geo8",
+  "latitude": 47.454703,
+  "longitude": 19.043123,
+  "radius": 10,
+  "expiration_time": 1000,
+  "title": "Iroda",
+  "body": "Welcome Back"
+},
+{
+  "key": "geo9",
+  "latitude": 47.440108,
+  "longitude": 19.104988,
+  "radius": 10,
+  "expiration_time": 1000,
+  "title": "Török Flóris Mol",
+  "body": "Munka push"
+},
+{
+  "key": "geo10",
+  "latitude": 47.4933994,
+  "longitude": 19.0868339,
+  "radius": 10,
+  "expiration_time": 1000,
+  "title": "Kossuth mauzóleum",
+  "body": "You are really brave to come here!"
+},
+{
+  "key": "geo11",
+  "latitude": 47.526538,
+  "longitude": 19.112872,
+  "radius": 10,
+  "expiration_time": 1000,
+  "title": "Rákospatak",
+  "body": "patak push"
+},
+{
+  "key": "geo12",
+  "latitude": 47.533318,
+  "longitude": 19.117822,
+  "radius": 10,
+  "expiration_time": 1000,
+  "title": "Játszótér",
+  "body": "Játszótér push"
+},
+{
+  "key": "geo13",
+  "latitude": 47.529926,
+  "longitude": 19.114603,
+  "radius": 10,
+  "expiration_time": 1000,
+  "title": "Kutyafuttató",
+  "body": "futtató push"
+}
+]
