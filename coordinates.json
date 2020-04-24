@@ -1,7 +1,42 @@
 {
 	"lastupdate": 1587635385,
-	"regions": [
-    {
+	"regions": [{
+			"key": "uzem",
+			"latitude": 47.452889,
+			"longitude": 19.042528,
+			"radius": 30,
+			"expiration_time": 1000,
+			"title": "Üzem",
+			"body": "Üdvözöllek a Senso Media Zrt Üzemében"
+		},
+		{
+			"key": "langos",
+			"latitude": 47.435750,
+			"longitude": 19.047389,
+			"radius": 20,
+			"expiration_time": 1000,
+			"title": "Lángos",
+			"body": "Egyél egy lángost"
+		},
+		{
+			"key": "bodyrope",
+			"latitude": 47.449611,
+			"longitude": 19.049917,
+			"radius": 20,
+			"expiration_time": 1000,
+			"title": "Bodyrope",
+			"body": "BodyRope edzés indul"
+		},
+		{
+			"key": "meszaros",
+			"latitude": 47.494583,
+			"longitude": 19.028417,
+			"radius": 20,
+			"expiration_time": 1000,
+			"title": "MOL Mészáros",
+			"body": "Hello főtér szökőkút"
+		},
+		{
 			"key": "geo1",
 			"latitude": 47.317356,
 			"longitude": 18.908911,
